@@ -1,0 +1,9 @@
+{
+  "name": "pp-matrix-colletor",
+  "version": "0.0.0",
+  "description": "PP-Matrix-Colletor",
+  "main": "server.js",
+  "author": {
+    "name": "hlima"
+  }
+}
